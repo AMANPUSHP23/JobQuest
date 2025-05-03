@@ -1,5 +1,25 @@
 # JobQuest 🔍💼
-![Preview](./preview.png)
+## 📸 Screenshots
+
+### 🏠 Home Page
+<img src="./assets/home.png" alt="Home Page" width="600"/>
+
+---
+
+### 💼 Job Listings
+<img src="./assets/job.png" alt="Job Listings" width="600"/>
+
+---
+
+###  Contact Page
+<img src="./assets/contact.png" alt="Login Page" width="600"/>
+
+
+### 🔐 Register Page
+<img src="./assets/register.png" alt="Login Page" width="600"/>
+
+### 🔐 Login Page
+<img src="./assets/login.png" alt="Login Page" width="600"/>
 
 
 JobQuest is a full-stack job portal web application where users can post, browse, and apply for jobs. It includes user authentication, job listing management, and a modern UI/UX.
