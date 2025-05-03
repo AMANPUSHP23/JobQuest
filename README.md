@@ -1,4 +1,6 @@
 # JobQuest 🔍💼
+![Preview](./preview.png)
+
 
 JobQuest is a full-stack job portal web application where users can post, browse, and apply for jobs. It includes user authentication, job listing management, and a modern UI/UX.
 
